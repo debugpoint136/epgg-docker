@@ -1,0 +1,45 @@
+<VirtualHost *:80>
+    ServerAdmin webmaster@localhost
+
+    LimitRequestLine 65000
+    DocumentRoot /var/www/html
+    <Directory />
+    Options +FollowSymLinks
+    AllowOverride None
+    </Directory>
+    <Directory /var/www/html>
+    Options +Indexes +FollowSymLinks +MultiViews +Includes
+
+    AllowOverride None
+    Order allow,deny
+    allow from all
+    </Directory>
+
+    ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/
+    <Directory "/usr/lib/cgi-bin">
+    AllowOverride None
+    Options +ExecCGI -MultiViews
+    #+SymLinksIfOwnerMatch
+    Order allow,deny
+    Allow from all
+    </Directory>
+
+    <Location /cgi-bin>
+    Header set Access-Control-Allow-Origin "*"
+    </Location>
+
+    ErrorLog /srv/epgg/logs/error1.log
+
+    # Possible values include: debug, info, notice, warn, error, crit,
+    # alert, emerg.
+    LogLevel warn
+    # the following line should be added to apache2.conf
+    #LogFormat "%{X-Forwarded-For}i %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\"" combined
+    SetEnvIf Request_URI "^/check\.txt$" dontlog
+    CustomLog /srv/epgg/logs/access1.log combined env=!dontlog
+
+    #CustomLog /srv/epgg/logs/access1.log combined
+    #Alias /awstatsclasses "/srv/epgg/awstats/share/lib/"
+    #Alias /awstats-icon/ "/srv/epgg/awstats/share/icon/"
+    #Alias /awstatscss "/srv/epgg/awstats/share/css"
+</VirtualHost>
