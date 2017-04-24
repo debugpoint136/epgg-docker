@@ -60,7 +60,9 @@ CREATE USER 'hguser'@'localhost' IDENTIFIED BY 'hguser';
 GRANT ALL ON *.* TO 'hguser'@'localhost' IDENTIFIED BY 'hguser' WITH GRANT OPTION;
 FLUSH PRIVILEGES;"
 
-mysql -h "localhost" -u "hguser" -p"hguser" "hg19" < "sessionUtils.sql" > /home/sql.log
+mysql -h "localhost" -u "hguser" -p"hguser" "hg19" < "sessionUtils.sql"
+mysql -h "localhost" -u "hguser" -p"hguser" "danRer10" < "sessionUtils.sql"
+
 cp treeoflife /srv/epgg/data/data/subtleKnife/
 cp hg19/tracks.json /srv/epgg/data/data/subtleKnife/hg19/config
 cp hg19/publichub.json /srv/epgg/data/data/subtleKnife/hg19/config

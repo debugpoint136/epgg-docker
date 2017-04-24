@@ -22,12 +22,12 @@ COPY ./epigenomegateway /home/epigenomegateway
 CMD ["a2enmod", "cgi"]
 CMD ["a2enmod", "headers"]
 CMD ["service", "apache2", "restart"]
-COPY ./build.sh /home/build.sh
-CMD ["./home/build.sh"]
+COPY ./run.sh /home/run.sh
+CMD ["/home/run.sh"]
 CMD ["service", "apache2", "restart"]
 CMD ["service", "mysql", "start"]
 EXPOSE 80
 RUN cd /home
-CMD sh ./build.sh
+CMD sh ./run.sh
 
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
