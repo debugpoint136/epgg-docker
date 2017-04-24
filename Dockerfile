@@ -17,14 +17,17 @@ RUN apt-get -y update && apt-get install -y make \
   wget \
   git \
   curl
+WORKDIR /home
+COPY ./epigenomegateway /home/epigenomegateway
 CMD ["a2enmod", "cgi"]
 CMD ["a2enmod", "headers"]
 CMD ["service", "apache2", "restart"]
-WORKDIR /home
-COPY build.sh /home/build.sh
-CMD ["./build.sh"]
+COPY ./build.sh /home/build.sh
+CMD ["./home/build.sh"]
 CMD ["service", "apache2", "restart"]
 CMD ["service", "mysql", "start"]
 EXPOSE 80
+RUN cd /home
+CMD sh ./build.sh
 
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
