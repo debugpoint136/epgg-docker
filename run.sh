@@ -1,13 +1,8 @@
 #!/bin/bash
 cd /tmp
-wget http://curl.haxx.se/download/curl-7.46.0.tar.bz2
-tar -xvjf curl-7.46.0.tar.bz2
-cd curl-7.46.0
-make
-make install
 
 cd /home
-cp /home/epigenomegateway /etc/apache2/sites-available
+mv /home/artifacts/epigenomegateway /etc/apache2/sites-available
 cd /etc/apache2/sites-enabled
 ln -s ../sites-available/epigenomegateway .
 
@@ -26,6 +21,8 @@ cd ..
 make
 cp subtleKnife postdeposit /usr/lib/cgi-bin/
 cp ucsc2jsonhub.py /usr/lib/cgi-bin/
+cp query/querybb query/querybw /usr/lib/cgi-bin/
+
 mkdir /srv/epgg
 chown www-data /srv/epgg
 mkdir /srv/epgg/data
@@ -108,3 +105,8 @@ wget http://egg.wustl.edu/d/danRer10/gc5Base.bigWig
 a2enmod cgi
 a2enmod headers
 service apache2 restart
+
+echo "===============Downloading data============="
+cd /var/www/html/data
+sh /home/artifacts/pigment_download_list.sh
+sh /home/artifacts/LUAD_download_list.sh

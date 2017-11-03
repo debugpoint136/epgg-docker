@@ -1,0 +1,1050 @@
+[{
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 55 7728 01A 11D 2185 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.10.lvl.3.TCGA.55.7728.01A.11D.2185.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "55",
+        "Participant": "7728"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 55 7994 01A 11D 2185 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.10.lvl.3.TCGA.55.7994.01A.11D.2185.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "55",
+        "Participant": "7994"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 55 7995 01A 11D 2185 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.10.lvl.3.TCGA.55.7995.01A.11D.2185.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "55",
+        "Participant": "7995"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 69 7973 01A 11D 2185 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.10.lvl.3.TCGA.69.7973.01A.11D.2185.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "69",
+        "Participant": "7973"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 69 7974 01A 11D 2185 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.10.lvl.3.TCGA.69.7974.01A.11D.2185.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "69",
+        "Participant": "7974"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 69 7978 01A 11D 2185 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.10.lvl.3.TCGA.69.7978.01A.11D.2185.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "69",
+        "Participant": "7978"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 78 7154 01A 11D 2037 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.6.lvl.3.TCGA.78.7154.01A.11D.2037.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "78",
+        "Participant": "7154"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 78 7153 01A 11D 2037 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.6.lvl.3.TCGA.78.7153.01A.11D.2037.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "78",
+        "Participant": "7153"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 78 7152 01A 11D 2037 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.6.lvl.3.TCGA.78.7152.01A.11D.2037.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 184,
+        "pg": 46,
+        "pb": 0,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(128,32,0)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["malignancy"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "01A",
+        "TSS": "78",
+        "Participant": "7152"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 44 2655 11A 01D 1551 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.1.lvl.3.TCGA.44.2655.11A.01D.1551.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 100,
+        "pg": 139,
+        "pb": 216,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(70,97,151)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["normal"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "11A",
+        "TSS": "44",
+        "Participant": "2655"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 44 2656 11A 01D 1551 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.1.lvl.3.TCGA.44.2656.11A.01D.1551.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 100,
+        "pg": 139,
+        "pb": 216,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(70,97,151)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["normal"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "11A",
+        "TSS": "44",
+        "Participant": "2656"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 44 2659 11A 01D 1551 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.1.lvl.3.TCGA.44.2659.11A.01D.1551.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 100,
+        "pg": 139,
+        "pb": 216,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(70,97,151)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["normal"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "11A",
+        "TSS": "44",
+        "Participant": "2659"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 44 2662 11A 01D 1551 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.1.lvl.3.TCGA.44.2662.11A.01D.1551.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 100,
+        "pg": 139,
+        "pb": 216,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(70,97,151)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["normal"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "11A",
+        "TSS": "44",
+        "Participant": "2662"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 44 2665 11A 01D 1551 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.1.lvl.3.TCGA.44.2665.11A.01D.1551.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 100,
+        "pg": 139,
+        "pb": 216,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(70,97,151)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["normal"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "11A",
+        "TSS": "44",
+        "Participant": "2665"
+    }
+}, {
+    "type": "bedgraph",
+    "name": "Lung Adenocarcinoma 44 2668 11A 01D 1551 05_sort",
+    "url": "http://localhost/data/jhu.usc.edu_LUAD.HumanMethylation450.1.lvl.3.TCGA.44.2668.11A.01D.1551.05_sort.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "pr": 100,
+        "pg": 139,
+        "pb": 216,
+        "nr": 255,
+        "ng": 0,
+        "nb": 0,
+        "pth": "rgb(70,97,151)",
+        "nth": "#800000",
+        "thtype": 1,
+        "thmin": 0,
+        "thmax": 1,
+        "thpercentile": 90,
+        "height": 30,
+        "summeth": 1,
+        "barplotbg": "#c0c0c0"
+    },
+    "metadata": {
+        "md1": ["14058"],
+        "md3": ["21012"],
+        "md4": ["30042"],
+        "md5": ["normal"]
+    },
+    "details": {
+        "cancerType": "LUAD",
+        "SampleVial": "11A",
+        "TSS": "44",
+        "Participant": "2668"
+    }
+}, {
+    "combinestrands": true,
+    "scalebarheight": true,
+    "smoothwindow": 11,
+    "tracks": {
+        "forward": {
+            "CG": {
+                "color": "rgb(100,139,216)",
+                "bg": "#d9d9d9",
+                "url": "http://vizhub.wustl.edu/public/hg19/RoadmapFinalMethylation/WGBS/E096.fm.f.bedGraph.gz"
+            },
+            "ReadDepth": {
+                "color": "#525252",
+                "url": "http://vizhub.wustl.edu/public/hg19/RoadmapFinalMethylation/WGBS/E096.rc.f.bedGraph.gz"
+            }
+        },
+        "reverse": {
+            "CG": {
+                "color": "rgb(100,139,216)",
+                "bg": "#d9d9d9",
+                "url": "http://vizhub.wustl.edu/public/hg19/RoadmapFinalMethylation/WGBS/E096.fm.r.bedGraph.gz"
+            },
+            "ReadDepth": {
+                "color": "#525252",
+                "url": "http://vizhub.wustl.edu/public/hg19/RoadmapFinalMethylation/WGBS/E096.rc.r.bedGraph.gz"
+            }
+        }
+    },
+    "type": "methylc",
+    "name": "methylC-Seq of Lung",
+    "mode": 1,
+    "qtc": {
+        "height": 70,
+        "smooth": 11
+    },
+    "metadata": {
+        "md1": ["13301"],
+        "md3": ["21004"],
+        "md4": ["30002"]
+    }
+}, {
+    "type": "categorical",
+    "name": "chromHMM of Lung",
+    "url": "http://localhost/data/E096_15_coreMarks_dense.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "height": 15
+    },
+    "metadata": {
+        "md1": ["13301"],
+        "md3": ["27004"],
+        "md4": ["30002"]
+    },
+    "categories": {
+        "1": ["Active TSS", "#ff0000"],
+        "2": ["Flanking Active TSS", "#ff4500"],
+        "3": ["Transcr at gene 5' and 3'", "#32cd32"],
+        "4": ["Strong transcription", "#008000"],
+        "5": ["Weak transcription", "#006400"],
+        "6": ["Genic enhancers", "#c2e105"],
+        "7": ["Enhancers", "#ffff00"],
+        "8": ["ZNF genes & repeats", "#66cdaa"],
+        "9": ["Heterochromatin", "#8a91d0"],
+        "10": ["Bivalent/Poised TSS", "#cd5c5c"],
+        "11": ["Flanking Bivalent TSS/Enh", "#e9967a"],
+        "12": ["Bivalent Enhancer", "#bdb76b"],
+        "13": ["Repressed PolyComb", "#808080"],
+        "14": ["Weak Repressed PolyComb", "#c0c0c0"],
+        "15": ["Quiescent/Low", "#ffffff"],
+        "-1": ["no information", "transparent"]
+    }
+}, {
+    "type": "categorical",
+    "name": "chromHMM of A549",
+    "url": "http://localhost/data/E114_15_coreMarks_dense.gz",
+    "mode": 1,
+    "qtc": {
+        "anglescale": 1,
+        "height": 15
+    },
+    "metadata": {
+        "md1": ["14011"],
+        "md3": ["27004"],
+        "md4": ["30003"]
+    },
+    "categories": {
+        "1": ["Active TSS", "#ff0000"],
+        "2": ["Flanking Active TSS", "#ff4500"],
+        "3": ["Transcr at gene 5' and 3'", "#32cd32"],
+        "4": ["Strong transcription", "#008000"],
+        "5": ["Weak transcription", "#006400"],
+        "6": ["Genic enhancers", "#c2e105"],
+        "7": ["Enhancers", "#ffff00"],
+        "8": ["ZNF genes & repeats", "#66cdaa"],
+        "9": ["Heterochromatin", "#8a91d0"],
+        "10": ["Bivalent/Poised TSS", "#cd5c5c"],
+        "11": ["Flanking Bivalent TSS/Enh", "#e9967a"],
+        "12": ["Bivalent Enhancer", "#bdb76b"],
+        "13": ["Repressed PolyComb", "#808080"],
+        "14": ["Weak Repressed PolyComb", "#c0c0c0"],
+        "15": ["Quiescent/Low", "#ffffff"],
+        "-1": ["no information", "transparent"]
+    }
+}, {
+    "type": "native_track",
+    "list": [{
+        "name": "rmsk_all",
+        "mode": 7,
+        "qtc": {
+            "anglescale": 1,
+            "pr": 255,
+            "pg": 0,
+            "pb": 0,
+            "nr": 0,
+            "ng": 0,
+            "nb": 230,
+            "pth": "#800000",
+            "nth": "#000099",
+            "thtype": 0,
+            "thmin": 0,
+            "thmax": 10,
+            "thpercentile": 95,
+            "height": 35,
+            "summeth": 1,
+            "textcolor": "#000000",
+            "fontsize": "8pt",
+            "fontfamily": "sans-serif",
+            "fontbold": false,
+            "bedcolor": "#336666"
+        },
+        "showscoreidx": 2,
+        "scorenamelst": ["Smith-Waterman score", "SW score normalized by length", "1-divergence%"],
+        "scorescalelst": [{
+            "type": 0
+        }, {
+            "type": 0
+        }, {
+            "type": 0
+        }],
+        "metadata": {},
+        "categories": {
+            "1": ["SINE - short interspersed nuclear elements", "#cc0000"],
+            "2": ["LINE - long interspersed nuclear element", "#FF6600"],
+            "3": ["LTR - long terminal repeat element", "#006600"],
+            "4": ["DNA transposon", "#4A72E8"],
+            "5": ["Simple repeat, micro-satellite", "#AB833B"],
+            "6": ["Satellite repeat", "#660000"],
+            "7": ["Low complexity repeat", "#663333"],
+            "8": ["RNA repeat", "#cc33ff"],
+            "9": ["Other repeats", "#488E8E"],
+            "10": ["Unknown", "#5C5C5C"],
+            "-1": ["no information", "transparent"]
+        }
+    }, {
+        "name": "refGene",
+        "mode": 3,
+        "qtc": {
+            "anglescale": 1,
+            "pr": 255,
+            "pg": 0,
+            "pb": 0,
+            "nr": 0,
+            "ng": 0,
+            "nb": 230,
+            "pth": "#800000",
+            "nth": "#000099",
+            "thtype": 0,
+            "thmin": 0,
+            "thmax": 10,
+            "thpercentile": 95,
+            "height": 50,
+            "summeth": 1,
+            "textcolor": "#000000",
+            "fontsize": "8pt",
+            "fontfamily": "sans-serif",
+            "fontbold": false,
+            "bedcolor": "#002EB8"
+        },
+        "metadata": {},
+        "details": {
+            "source": "UCSC Genome Browser",
+            "download date": "Jan 1, 2012"
+        }
+    }]
+}, {
+    "type": "metadata",
+    "vocabulary_set": {
+        "md1": "http://vizhub.wustl.edu/metadata/human/Samples",
+        "md2": "http://vizhub.wustl.edu/metadata/human/Donor",
+        "md3": "http://vizhub.wustl.edu/metadata/Experimental_assays",
+        "md4": "http://vizhub.wustl.edu/metadata/Institutions",
+        "md5": {
+            "terms": {
+                "malignancy": "malignancy",
+                "normal": "normal"
+            },
+            "vocabulary": {
+                "Type": ["normal", "malignancy"]
+            },
+            "source": "http://vizhub.wustl.edu/public/hg19/TCGA-450k-hub2"
+        }
+    },
+    "show_terms": {
+        "md1": ["Sample"],
+        "md3": ["Assay"],
+        "md5": ["Type"]
+    }
+}, {
+    "type": "coordinate_override",
+    "coord": "chr7,27053398,chr7,27373766"
+}, {
+    "type": "geneset_ripe",
+    "list": [{
+        "name": "LUAD CIMP-H",
+        "lst": [{
+            "c": "chr12",
+            "a": 65444403,
+            "b": 65515346,
+            "isgene": true,
+            "type": "refGene",
+            "name": "WIF1",
+            "id": 3836,
+            "strand": "-",
+            "struct": {
+                "thin": [
+                    [65444403, 65445128],
+                    [65514971, 65515346]
+                ],
+                "thick": [
+                    [65445128, 65445250],
+                    [65448897, 65448993],
+                    [65449810, 65449906],
+                    [65456260, 65456356],
+                    [65460420, 65460516],
+                    [65461474, 65461570],
+                    [65462543, 65462684],
+                    [65471525, 65471634],
+                    [65514196, 65514336],
+                    [65514823, 65514971]
+                ]
+            },
+            "desc": "Homo sapiens WNT inhibitory factor 1 (WIF1), mRNA.",
+            "a1": 65444403,
+            "b1": 65515346
+        }, {
+            "c": "chr8",
+            "a": 55370494,
+            "b": 55373456,
+            "isgene": true,
+            "type": "refGene",
+            "name": "SOX17",
+            "id": 26112,
+            "strand": "+",
+            "struct": {
+                "thin": [
+                    [55370494, 55370698],
+                    [55372555, 55373456]
+                ],
+                "thick": [
+                    [55370698, 55371005],
+                    [55371617, 55372555]
+                ]
+            },
+            "desc": "Homo sapiens SRY (sex determining region Y)-box 17 (SOX17), mRNA.",
+            "a1": 55370494,
+            "b1": 55373456
+        }, {
+            "c": "chr8",
+            "a": 41119480,
+            "b": 41167016,
+            "isgene": true,
+            "type": "gencodeV19",
+            "name": "SFRP1",
+            "id": 186457,
+            "strand": "-",
+            "struct": {
+                "thin": [
+                    [41119480, 41122685],
+                    [41166678, 41167016]
+                ],
+                "thick": [
+                    [41122685, 41123008],
+                    [41160979, 41161057],
+                    [41166134, 41166678]
+                ]
+            },
+            "category": 1,
+            "desc": "Homo sapiens secreted frizzled-related protein 1 (SFRP1), mRNA.",
+            "details": {
+                "Gene ID": "<a href=http://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;t=ENSG00000104332.7 class=w target=_blank>ENSG00000104332.7</a>",
+                "Transcript ID": "<a href=http://www.ensembl.org/Homo_sapiens/Transcript/Summary?db=core;t=ENST00000220772.3 class=w target=_blank>ENST00000220772.3</a>",
+                "UniProt": "<a href=http://www.uniprot.org/uniprot/A8KAM5 class=w target=_blank>A8KAM5</a><br><a href=http://www.uniprot.org/uniprot/Q8N474 class=w target=_blank>Q8N474</a><br><a href=http://www.uniprot.org/uniprot/Q9BZZ6 class=w target=_blank>Q9BZZ6</a>",
+                "PubMed": "<a href=http://www.ncbi.nlm.nih.gov/pubmed/9391078 class=w target=_blank>9391078</a><br><a href=http://www.ncbi.nlm.nih.gov/pubmed/9192640 class=w target=_blank>9192640</a>",
+                "RefSeq": "<a href=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=Nucleotide&doptcmdl=GenBank&term=NM_003012.4 class=w target=_blank>NM_003012.4</a>, <a href=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=Nucleotide&doptcmdl=GenBank&term=NP_003003.3 class=w target=_blank>NP_003003.3</a>",
+                "Gene bioType": "<a href=http://www.gencodegenes.org/gencode_biotypes.html class=w target=_blank>protein_coding</a>",
+                "Transcript bioType": "<a href=http://www.gencodegenes.org/gencode_biotypes.html class=w target=_blank>protein_coding</a>"
+            },
+            "a1": 41119480,
+            "b1": 41167016
+        }, {
+            "c": "chr3",
+            "a": 50367216,
+            "b": 50378367,
+            "isgene": true,
+            "type": "refGene",
+            "name": "RASSF1",
+            "id": 42824,
+            "strand": "-",
+            "struct": {
+                "thin": [
+                    [50367216, 50368011],
+                    [50369489, 50369585],
+                    [50377986, 50378367]
+                ],
+                "thick": [
+                    [50368011, 50368158],
+                    [50368764, 50368880],
+                    [50368989, 50369287],
+                    [50369480, 50369489]
+                ]
+            },
+            "desc": "Homo sapiens Ras association (RalGDS/AF-6) domain family member 1 (RASSF1), transcript variant H, mRNA.",
+            "a1": 50367216,
+            "b1": 50378367
+        }, {
+            "c": "chr2",
+            "a": 176957531,
+            "b": 176960666,
+            "isgene": true,
+            "type": "refGene",
+            "name": "HOXD13",
+            "id": 23833,
+            "strand": "+",
+            "struct": {
+                "thin": [
+                    [176957531, 176957618],
+                    [176959458, 176960666]
+                ],
+                "thick": [
+                    [176957618, 176958399],
+                    [176959207, 176959458]
+                ]
+            },
+            "desc": "Homo sapiens homeobox D13 (HOXD13), mRNA.",
+            "a1": 176957531,
+            "b1": 176960666
+        }, {
+            "c": "chr7",
+            "a": 27202925,
+            "b": 27210117,
+            "isgene": true,
+            "type": "gencodeV19",
+            "name": "HOXA9",
+            "id": 175985,
+            "strand": "-",
+            "struct": {
+                "thin": [
+                    [27202925, 27203460],
+                    [27204496, 27204586],
+                    [27210049, 27210117]
+                ]
+            },
+            "category": 2,
+            "desc": "Homo sapiens homeobox A9 (HOXA9), mRNA.",
+            "details": {
+                "Gene ID": "<a href=http://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;t=ENSG00000078399.11 class=w target=_blank>ENSG00000078399.11</a>",
+                "Transcript ID": "<a href=http://www.ensembl.org/Homo_sapiens/Transcript/Summary?db=core;t=ENST00000487384.1 class=w target=_blank>ENST00000487384.1</a>",
+                "PubMed": "<a href=http://www.ncbi.nlm.nih.gov/pubmed/1358459 class=w target=_blank>1358459</a><br><a href=http://www.ncbi.nlm.nih.gov/pubmed/1973146 class=w target=_blank>1973146</a>",
+                "Gene bioType": "<a href=http://www.gencodegenes.org/gencode_biotypes.html class=w target=_blank>protein_coding</a>",
+                "Transcript bioType": "<a href=http://www.gencodegenes.org/gencode_biotypes.html class=w target=_blank>processed_transcript</a>"
+            },
+            "a1": 27202925,
+            "b1": 27210117
+        }, {
+            "c": "chr17",
+            "a": 1958392,
+            "b": 1962981,
+            "isgene": true,
+            "type": "refGene",
+            "name": "HIC1",
+            "id": 37873,
+            "strand": "+",
+            "struct": {
+                "thin": [
+                    [1958392, 1958532],
+                    [1959964, 1959984],
+                    [1962129, 1962981]
+                ],
+                "thick": [
+                    [1959984, 1962129]
+                ]
+            },
+            "desc": "Homo sapiens hypermethylated in cancer 1 (HIC1), transcript variant 1, mRNA.",
+            "a1": 1958392,
+            "b1": 1962981
+        }, {
+            "c": "chr20",
+            "a": 61038552,
+            "b": 61051026,
+            "isgene": true,
+            "type": "refGene",
+            "name": "GATA5",
+            "id": 20235,
+            "strand": "-",
+            "struct": {
+                "thin": [
+                    [61038552, 61039891],
+                    [61050577, 61050598],
+                    [61050985, 61051026]
+                ],
+                "thick": [
+                    [61039891, 61040047],
+                    [61040395, 61040520],
+                    [61040889, 61040977],
+                    [61041481, 61041607],
+                    [61048458, 61048634],
+                    [61050054, 61050577]
+                ]
+            },
+            "desc": "Homo sapiens GATA binding protein 5 (GATA5), mRNA.",
+            "a1": 61038552,
+            "b1": 61051026
+        }, {
+            "c": "chr8",
+            "a": 11534467,
+            "b": 11617509,
+            "isgene": true,
+            "type": "gencodeV19",
+            "name": "GATA4",
+            "id": 184444,
+            "strand": "+",
+            "struct": {
+                "thin": [
+                    [11534467, 11534572],
+                    [11558019, 11558287],
+                    [11606424, 11606429],
+                    [11615984, 11617509]
+                ],
+                "thick": [
+                    [11606429, 11606594],
+                    [11607619, 11607745],
+                    [11612554, 11612642],
+                    [11614443, 11614592],
+                    [11615801, 11615984]
+                ]
+            },
+            "category": 1,
+            "desc": "Homo sapiens GATA binding protein 4 (GATA4), mRNA.",
+            "details": {
+                "Gene ID": "<a href=http://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;t=ENSG00000136574.13 class=w target=_blank>ENSG00000136574.13</a>",
+                "Transcript ID": "<a href=http://www.ensembl.org/Homo_sapiens/Transcript/Summary?db=core;t=ENST00000528712.1 class=w target=_blank>ENST00000528712.1</a>",
+                "UniProt": "<a href=http://www.uniprot.org/uniprot/B2ZBW1 class=w target=_blank>B2ZBW1</a><br><a href=http://www.uniprot.org/uniprot/B3KUF4 class=w target=_blank>B3KUF4</a><br><a href=http://www.uniprot.org/uniprot/E9PKS4 class=w target=_blank>E9PKS4</a>",
+                "PubMed": "<a href=http://www.ncbi.nlm.nih.gov/pubmed/7665171 class=w target=_blank>7665171</a>",
+                "Gene bioType": "<a href=http://www.gencodegenes.org/gencode_biotypes.html class=w target=_blank>protein_coding</a>",
+                "Transcript bioType": "<a href=http://www.gencodegenes.org/gencode_biotypes.html class=w target=_blank>protein_coding</a>"
+            },
+            "a1": 11534467,
+            "b1": 11617509
+        }, {
+            "c": "chr3",
+            "a": 128198264,
+            "b": 128212030,
+            "isgene": true,
+            "type": "refGene",
+            "name": "GATA2",
+            "id": 44658,
+            "strand": "-",
+            "struct": {
+                "thin": [
+                    [128198264, 128199861],
+                    [128205874, 128205919],
+                    [128211741, 128212030]
+                ],
+                "thick": [
+                    [128199861, 128200161],
+                    [128200661, 128200787],
+                    [128202702, 128202848],
+                    [128204569, 128205211],
+                    [128205645, 128205874]
+                ]
+            },
+            "desc": "Homo sapiens GATA binding protein 2 (GATA2), transcript variant 2, mRNA.",
+            "a1": 128198264,
+            "b1": 128212030
+        }, {
+            "c": "chr9",
+            "a": 21968103,
+            "b": 21995300,
+            "isgene": true,
+            "type": "gencodeV19",
+            "name": "CDKN2A",
+            "id": 192420,
+            "strand": "-",
+            "struct": {
+                "thin": [
+                    [21968103, 21968227],
+                    [21971204, 21971207],
+                    [21994819, 21995300]
+                ],
+                "thick": [
+                    [21968227, 21968241],
+                    [21970900, 21971204]
+                ]
+            },
+            "category": 1,
+            "desc": "Homo sapiens cyclin-dependent kinase inhibitor 2A (CDKN2A), transcript variant 4, mRNA.",
+            "details": {
+                "Gene ID": "<a href=http://www.ensembl.org/Homo_sapiens/Gene/Summary?db=core;t=ENSG00000147889.12 class=w target=_blank>ENSG00000147889.12</a>",
+                "Transcript ID": "<a href=http://www.ensembl.org/Homo_sapiens/Transcript/Summary?db=core;t=ENST00000498628.2 class=w target=_blank>ENST00000498628.2</a>",
+                "Remark": "alternative 5' UTR",
+                "UniProt": "<a href=http://www.uniprot.org/uniprot/P42771 class=w target=_blank>P42771</a>",
+                "PubMed": "<a href=http://www.ncbi.nlm.nih.gov/pubmed/7606716 class=w target=_blank>7606716</a><br><a href=http://www.ncbi.nlm.nih.gov/pubmed/8152487 class=w target=_blank>8152487</a>",
+                "Gene bioType": "<a href=http://www.gencodegenes.org/gencode_biotypes.html class=w target=_blank>protein_coding</a>",
+                "Transcript bioType": "<a href=http://www.gencodegenes.org/gencode_biotypes.html class=w target=_blank>protein_coding</a>"
+            },
+            "a1": 21968103,
+            "b1": 21995300
+        }],
+        "gss_down": 2500,
+        "gss_opt": "genebody",
+        "gss_origin": "txstart",
+        "gss_up": 2500
+    }]
+}]

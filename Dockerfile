@@ -18,16 +18,22 @@ RUN apt-get -y update && apt-get install -y make \
   git \
   curl
 WORKDIR /home
-COPY ./epigenomegateway /home/epigenomegateway
-CMD ["a2enmod", "cgi"]
-CMD ["a2enmod", "headers"]
-CMD ["service", "apache2", "restart"]
+
+RUN wget http://curl.haxx.se/download/curl-7.46.0.tar.bz2
+RUN tar -xvjf curl-7.46.0.tar.bz2
+RUN cd curl-7.46.0 && make
+RUN cd curl-7.46.0 && make install
+
+COPY ./epigenomegateway /home/artifacts/epigenomegateway
+RUN mkdir /var/www/html/data
+RUN mkdir /var/www/html/datahub
+COPY ./LUAD_datahub.json /var/www/html/datahub
+COPY ./pigment_datahub.json /var/www/html/datahub
+COPY ./LUAD_download_list.sh /home/artifacts
+COPY ./pigment_download_list.sh /home/artifacts
 COPY ./run.sh /home/run.sh
-CMD ["/home/run.sh"]
-CMD ["service", "apache2", "restart"]
-CMD ["service", "mysql", "start"]
+
 EXPOSE 80
-RUN cd /home
-CMD sh ./run.sh
+
 
 RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*

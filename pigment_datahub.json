@@ -1,0 +1,21 @@
+[
+# this is comment
+{
+    type:"bigWig",
+    url:"http://localhost/data/Mel_Rep1_PE.bigWig",
+    name:"Melanocyte ATACseq",
+    mode:"show",
+    colorpositive:"#ff33cc",
+    height:50,
+    group:1
+},
+{
+    type:"bigWig",
+    url:"http://localhost/data/Iri_Rep1_PE.bigWig",
+    name:"Iridophore ATACseq",
+    mode:"show",
+    colorpositive:"#ff33cc",
+    height:50,
+    group:1
+},
+]
